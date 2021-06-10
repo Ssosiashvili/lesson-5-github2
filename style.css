@@ -1,4 +1,4 @@
-footer{
+.fot_li{
     margin-left: 30px;
     margin-bottom: 30px;
 }
@@ -9,17 +9,17 @@ footer{
     display: inline-block;
 	margin-left: 30px;
 	margin-right: 30px;
-    margin-top: 130px;
+    margin-top: 100px;
 }
-li{
+.list{
     margin-bottom: 10px;
     margin-top: 10px;
 }
-span{
+.sp_list{
     color: #808080;
     font-size: 16px;
 }
-h2{
+.text_h2{
     color: #3D58A6;
     font-size: 20px;
     margin-left: 45px;
