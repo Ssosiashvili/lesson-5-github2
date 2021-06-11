@@ -78,8 +78,79 @@ nav{
 }
 .phone1{
     margin-left: 38px;
+    display: block;
+    margin-bottom: 34.2px;
 }
 .featured{
     font-family: 'Roboto', sans-serif;
-    color: #000000;
+    color: black;
+    margin-left: 38px;
+    font-size: 24px;
+    display: block;
+    margin-bottom: 29.8px;
 }
+.box1{
+    background: #F2F2F2;
+    display: inline-block;
+    width: 570px;
+    height: 225px;
+    margin-left: 38px;
+    margin-bottom: 68.63px;
+}
+.text{
+    display: inline-block;
+    font-size: 20px;
+    width: 355px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 143.29px;    
+}
+.web-design{
+    color: #3D58A6;
+    font-size: 22px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 20.8px;
+    margin-top: 11.1px;
+    margin-bottom: 12.4px;
+
+}
+.finger{
+    margin-left: 36.8px;
+    margin-top: 0.3px;
+    margin-right: 65.4px;
+    width: 102.87px;
+    height: 145.5px;
+}
+.box2{
+    background: #F2F2F2;
+    display: inline-block;
+    width: 570px;
+    height: 225px;
+    margin-left: 38px;
+}
+.text2{
+    display: inline-block;
+    font-size: 20px;
+    width: 355px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 143.29px;    
+}
+.APP-DEVELOPMENT{
+    color: #3D58A6;
+    font-size: 22px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 20.3px;
+    margin-top: 11.1px;
+    margin-bottom: 12.4px;
+
+}
+.phone{
+    margin-left: 36.8px;
+    margin-top: 0.3px;
+    margin-right: 65.4px;
+    width: 102.87px;
+    height: 145.5px;
+}
+
+
