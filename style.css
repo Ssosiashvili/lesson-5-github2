@@ -1,5 +1,5 @@
 footer{
-    margin-left: 30px;
+    margin-left: 20px;
     margin-bottom: 30px;
 }
 .line{
@@ -9,7 +9,7 @@ footer{
     display: inline-block;
 	margin-left: 30px;
 	margin-right: 30px;
-    margin-top: 130px;
+    margin-top: 50px;
 }
 li{
     margin-bottom: 10px;
@@ -43,9 +43,114 @@ div{
 }
 .box{
     background-color: #E6E6E6;
-    margin-top: 110px;
+    margin-top: 30px;
 }
 .info{
     text-align: center;
     vertical-align: top;
 }
+
+.navigation{
+    display: inline-block;
+    font-size: 22px;
+}
+nav{
+    display: inline-block;
+}
+.html-img{
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-right: 49.8px;
+    width: 100.18px;
+    height: 30.57px;
+}
+.mtavari{
+    color: #EE4036;
+    margin-right: 20px;
+}
+.news{
+    color: #3D58A6;
+    margin-right: 36px;
+
+}
+.contact{
+    color: #3D58A6;
+}
+.phone1{
+    margin-left: 38px;
+    display: block;
+    margin-bottom: 34.2px;
+}
+.featured{
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    margin-left: 38px;
+    font-size: 24px;
+    display: block;
+    margin-bottom: 29.8px;
+}
+.box1{
+    background: #F2F2F2;
+    display: inline-block;
+    width: 570px;
+    height: 225px;
+    margin-left: 38px;
+    margin-bottom: 68.63px;
+}
+.text{
+    display: inline-block;
+    font-size: 20px;
+    width: 355px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 143.29px;    
+}
+.web-design{
+    color: #3D58A6;
+    font-size: 22px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 20.8px;
+    margin-top: 11.1px;
+    margin-bottom: 12.4px;
+
+}
+.finger{
+    margin-left: 36.8px;
+    margin-top: 0.3px;
+    margin-right: 65.4px;
+    width: 102.87px;
+    height: 145.5px;
+}
+.box2{
+    background: #F2F2F2;
+    display: inline-block;
+    width: 570px;
+    height: 225px;
+    margin-left: 38px;
+}
+.text2{
+    display: inline-block;
+    font-size: 20px;
+    width: 355px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 143.29px;    
+}
+.APP-DEVELOPMENT{
+    color: #3D58A6;
+    font-size: 22px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 20.3px;
+    margin-top: 11.1px;
+    margin-bottom: 12.4px;
+
+}
+.phone{
+    margin-left: 36.8px;
+    margin-top: 0.3px;
+    margin-right: 65.4px;
+    width: 102.87px;
+    height: 145.5px;
+}
+
+
